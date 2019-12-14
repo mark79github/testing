@@ -1,0 +1,3 @@
+line one
+delete line two
+line three
